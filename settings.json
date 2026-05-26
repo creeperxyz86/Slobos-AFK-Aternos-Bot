@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "PROSMP-9tjS.aternos.me",
+    "ip": "dragonet.aternos.host",
     "port": 33016,
     "version": "",
     "try-creative": false
