@@ -61,7 +61,7 @@
     "avoidMobs": true,
     "combat": true,
     "beds": true,
-    "chat": true,
+    "chat": false,
     "console-commands": true
   },
   "combat": {
